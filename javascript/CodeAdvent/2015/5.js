@@ -1035,7 +1035,7 @@ list.forEach((item) => {
   re !== null && wordsWithAtLeastThreeVowels.push(item);
 });
 
-// 2) DOES IT HAVE AT LEAST 1 CHARACTER IN ROW
+// 2) DOES IT HAVE AT LEAST 1 CHARACTER TWINCE IN ROW
 let wordsWithAtLeastOneCharInRow = [];
 
 function atLeastOneCharInRow(str) {
